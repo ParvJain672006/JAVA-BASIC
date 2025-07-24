@@ -1,0 +1,476 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "runm",
+            "request": "launch",
+            "mainClass": "pratice.runm",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "SEtDemo",
+            "request": "launch",
+            "mainClass": "collectionframework.SEtDemo",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "GenericMethodExample",
+            "request": "launch",
+            "mainClass": "GGenericss.GenericMethodExample",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "BOundedEX",
+            "request": "launch",
+            "mainClass": "GGenericss.BOundedEX",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "example",
+            "request": "launch",
+            "mainClass": "GGenericss.example",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "SuperDemoThree",
+            "request": "launch",
+            "mainClass": "SuperDemoThree",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Print",
+            "request": "launch",
+            "mainClass": "OOPS3.publicprivate.Print",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Print",
+            "request": "launch",
+            "mainClass": "Print",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Aarrayy",
+            "request": "launch",
+            "mainClass": "Aarrayy",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Add",
+            "request": "launch",
+            "mainClass": "Add",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Array3d",
+            "request": "launch",
+            "mainClass": "Array3d",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "ARRayofSTringss",
+            "request": "launch",
+            "mainClass": "BASICCC.ARRayofSTringss",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Basic",
+            "request": "launch",
+            "mainClass": "BASICCC.Basic",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Flve",
+            "request": "launch",
+            "mainClass": "BASICCC.Flve",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "ONE",
+            "request": "launch",
+            "mainClass": "BASICCC.ONE",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Seven",
+            "request": "launch",
+            "mainClass": "BASICCC.Seven",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Six",
+            "request": "launch",
+            "mainClass": "BASICCC.Six",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "THree",
+            "request": "launch",
+            "mainClass": "BASICCC.THree",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "TWo",
+            "request": "launch",
+            "mainClass": "BASICCC.TWo",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "BIT",
+            "request": "launch",
+            "mainClass": "BIT",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "BITR",
+            "request": "launch",
+            "mainClass": "BITR",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Basic(1)",
+            "request": "launch",
+            "mainClass": "Basic",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Cossole",
+            "request": "launch",
+            "mainClass": "Cossole",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Five",
+            "request": "launch",
+            "mainClass": "Five",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "ForLOOP",
+            "request": "launch",
+            "mainClass": "ForLOOP",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Four",
+            "request": "launch",
+            "mainClass": "Four",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Grademanagement",
+            "request": "launch",
+            "mainClass": "Grademanagement",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "HelloJava",
+            "request": "launch",
+            "mainClass": "HelloJava",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "IFeslenesteddd",
+            "request": "launch",
+            "mainClass": "IFeslenesteddd",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "IFstatement",
+            "request": "launch",
+            "mainClass": "IFstatement",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "INSErttPRatice",
+            "request": "launch",
+            "mainClass": "INSErttPRatice",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "INserttpratice2",
+            "request": "launch",
+            "mainClass": "INserttpratice2",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Logicall",
+            "request": "launch",
+            "mainClass": "Logicall",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Box",
+            "request": "launch",
+            "mainClass": "OOPS3.INTROO.Box",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "InheritanceTWO",
+            "request": "launch",
+            "mainClass": "OOPS3.INTROO.InheritanceTWO",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Box(1)",
+            "request": "launch",
+            "mainClass": "OOPS3.inheritance.Box",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "BoxPrice",
+            "request": "launch",
+            "mainClass": "OOPS3.inheritance.BoxPrice",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "OOPS3.inheritance.Main",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Basic(2)",
+            "request": "launch",
+            "mainClass": "OOPs.CConstructorss.Basic",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "CCOOPPYY",
+            "request": "launch",
+            "mainClass": "OOPs.CConstructorss.CCOOPPYY",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Basic(3)",
+            "request": "launch",
+            "mainClass": "OOPs.Classs.Basic",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Basic(4)",
+            "request": "launch",
+            "mainClass": "OOPs.Encapsulation.Basic",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "AnimalDemo",
+            "request": "launch",
+            "mainClass": "OOPs.Inheritance.AnimalDemo",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "OOPs.Inheritance.Main",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Vehicals",
+            "request": "launch",
+            "mainClass": "OOPs.Inheritance.Vehicals",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Greeting",
+            "request": "launch",
+            "mainClass": "OOPs2.Greeting",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Message",
+            "request": "launch",
+            "mainClass": "OOPs2.Message",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "StaticThree",
+            "request": "launch",
+            "mainClass": "OOPs2.STATic3.StaticThree",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "StaticTwo",
+            "request": "launch",
+            "mainClass": "OOPs2.Static2.StaticTwo",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "One",
+            "request": "launch",
+            "mainClass": "One",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "PremetiveData",
+            "request": "launch",
+            "mainClass": "PremetiveData",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "QuizUsingConditionalStatement",
+            "request": "launch",
+            "mainClass": "QuizUsingConditionalStatement",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "SStringintro",
+            "request": "launch",
+            "mainClass": "SStringintro",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "ScannerExample",
+            "request": "launch",
+            "mainClass": "ScannerExample",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Stringdemo",
+            "request": "launch",
+            "mainClass": "Stringdemo",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Switchcasee",
+            "request": "launch",
+            "mainClass": "Switchcasee",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Ternarry",
+            "request": "launch",
+            "mainClass": "Ternarry",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Two",
+            "request": "launch",
+            "mainClass": "Two",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "TwoDArrayExample",
+            "request": "launch",
+            "mainClass": "TwoDArrayExample",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "WhileLOOP",
+            "request": "launch",
+            "mainClass": "WhileLOOP",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Five(1)",
+            "request": "launch",
+            "mainClass": "pratice.Five",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Four(1)",
+            "request": "launch",
+            "mainClass": "pratice.Four",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "One(1)",
+            "request": "launch",
+            "mainClass": "pratice.One",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Third",
+            "request": "launch",
+            "mainClass": "pratice.Third",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Three",
+            "request": "launch",
+            "mainClass": "pratice.Three",
+            "projectName": "JAVA_7ed78e5c"
+        },
+        {
+            "type": "java",
+            "name": "Two(1)",
+            "request": "launch",
+            "mainClass": "pratice.Two",
+            "projectName": "JAVA_7ed78e5c"
+        }
+    ]
+}

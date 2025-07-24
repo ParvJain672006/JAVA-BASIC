@@ -1,0 +1,78 @@
+// generics allow you to write code  that is indipendent of a specific data type  while  ensuring type safety at compile time . 
+
+# key Benefits =>>
+
+a.) type safety 
+b.) elimination of casts 
+c.) code resuability 
+d.) improved redail=blity 
+
+
+# generic use type paameters (<>), to specify the type (s) of a class interface or method 
+
+* Syntax 
+
+public class Genericsclass <t>{
+    private t data ;
+    public Genericsclass(t data){
+        this.data = data ;
+
+    }
+    public t getdata (){
+        return data ;
+
+    }
+
+   // t => type parametr & can be  replaced by any - " integer , strinng , etc .
+}
+
+
+* type Parameters
+
+a.) t - type 
+b.) E - element 
+c.) k - key 
+d.) v - value 
+e.) n - number 
+
+
+
+## bounded type parameters 
+
+=> bounded type parameters restrict the types that can be used with a generic class or method . you can use in the " extends " keyword to specify that the type must be a sub class  of a specific class  or implement specific interfaces 
+
+
+
+
+
+
+
+
+
+# raw type =>
+  
+  a raw type is  a generic class or interface use without specifying a type parameter  .
+
+  for example - list instead of list < strng> . they are discouraged because of by passing type safety 
+
+
+  list raw list = new array list ();       // raw type 
+  rawlist.add("string");
+  rawlist.add(123);                   -->  no error
+
+
+
+  # type eraser :
+
+  a.)  compile time checking : -> java compiler uses the generic type information  to (<t>) to enforce type safety at compile timme this prevent you  from putting the wrong type of object into a generic class  or method 
+
+  b.) erassure of type parameter :-> when the code is compiled  the compiler erases all information related to generic type parameters 
+  -> if a type parameter is unbounded (t) -> replaced by object 
+  bound ( t extends number ) -> it is replaced by the bound type ( number ) 
+
+c) Insertion of casts:
+---> When you use a generic class, for ex - (Genericlas <string> ), the compiler inserts type casters where nessary to ensure type safety.
+
+ex- Genericlas Strobj = new Genericlas();
+                Strobj.data = "Hello";
+                String value = (String) Strobj.data ---> complier nserts casts

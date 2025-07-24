@@ -1,0 +1,30 @@
+ collection  framework 
+
+ the java compiler framework is a set of interfaces and clases in the java .util package for string , processing multiple objects 
+
+ => key concepts :
+ a.) collection interfaces 
+ b.) map interface
+ c.) implementations
+ d.) dynamic size 
+ e.) generics 
+
+ => List interface 
+ . the list interface 9 java.util.list) represent an orderd , index  - based  collection   that  allowe duplicates .
+ common implementation are - > arrayList / Linked list  
+
+Key method  are -> add , remove , size , get .
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
