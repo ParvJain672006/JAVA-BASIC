@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class WhileLOOP {
+public class WhileDoLoopDemo {
     public static void main(String args[]) {
         int start, end;
 
