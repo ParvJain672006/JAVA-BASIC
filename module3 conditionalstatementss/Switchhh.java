@@ -1,11 +1,8 @@
  import java.util.*;
 public class Switchhh {
     
-
-
     private double balance;
 
-    
     public ATM(double initialBalance) {
         this.balance = initialBalance;
     }
@@ -63,8 +60,6 @@ public class Switchhh {
                     break;
                 case 4:
                     System.out.println(" Thank you for using our");
-
-    
             }
 }
             }
