@@ -1,9 +1,9 @@
 public class ARRAY2D {
     public static void main(String[] args) {
         String[][] board = {
-            {"🍎", "🍌", "🍇"},
-            {"🍉", "🍒", "🍍"},
-            {"🥝", "🍑", "🍓"}
+            {"🍎", "🍌", "🍇","-->>"},
+            {"🍉", "🍒", "🍍",":-}"},
+            {"🥝", "🍑", "🍓",":->>>>>>"}
         };
 
         System.out.println("Welcome to the Fruit Board!");
